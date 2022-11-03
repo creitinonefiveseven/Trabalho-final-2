@@ -1,4 +1,12 @@
 body{
     background-color: aliceblue;
 }
-h1
+h1 {
+    text-align: center; color: black;
+}
+i{
+    text-align: center; color: cornflowerblue;
+}
+p{
+    text-align: center;color: cornflowerblue;
+ }
